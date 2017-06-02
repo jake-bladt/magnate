@@ -14,4 +14,4 @@ Magnate is a platform for aggregating and publishing niche newsletters and their
 
 ## News Sources
 
-T
+The original plan was to use the Google News API for sourcing, but that API has been discontinued. See [this article]() for other options.

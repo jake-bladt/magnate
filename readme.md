@@ -11,3 +11,7 @@ Magnate is a platform for aggregating and publishing niche newsletters and their
 **Site Builder**: A service for building sites and deploying them based on instructions from the administrator.
 
 **Data Store**: Persistence for the newletters, sites, and their metadata.
+
+## News Sources
+
+T

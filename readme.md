@@ -15,3 +15,5 @@ Magnate is a platform for aggregating and publishing niche newsletters and their
 ## News Sources
 
 The original plan was to use the Google News API for sourcing, but that API has been discontinued. See [this article](https://www.quora.com/With-Google-News-API-going-away-what-is-the-best-option-for-company-news-search-feed) for other options.
+
+## Minimum Viable Product

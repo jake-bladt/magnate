@@ -21,3 +21,4 @@ The original plan was to use the Google News API for sourcing, but that API has 
 In order to test the viability of Mogul, we need the following:
 
 * A single source of trending topics (ie Twitter)
+* A single topic on which to form a newsletter

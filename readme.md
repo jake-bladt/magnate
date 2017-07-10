@@ -22,3 +22,6 @@ In order to test the viability of Mogul, we need the following:
 
 * A single source of trending topics (ie Twitter)
 * A single topic on which to form a newsletter
+* Enough automation to put together a newsletter in < 2 hours
+* Enough automation to generate a static website from the same data as the newsletter
+

@@ -25,3 +25,6 @@ In order to test the viability of Mogul, we need the following:
 * Enough automation to put together a newsletter in < 2 hours
 * Enough automation to generate a static website from the same data as the newsletter
 
+## First Subject Possibilities
+
+

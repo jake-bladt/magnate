@@ -27,4 +27,5 @@ In order to test the viability of Mogul, we need the following:
 
 ## First Subject Possibilities
 
-
+* Dev->Devops
+* Tech Hiring

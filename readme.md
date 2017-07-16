@@ -29,3 +29,7 @@ In order to test the viability of Mogul, we need the following:
 
 * Dev->Devops
 * Tech Hiring
+
+## Language
+
+* For early deployment, serverless should be an option. If we use Amazon Lambda, 

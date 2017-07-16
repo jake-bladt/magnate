@@ -32,4 +32,6 @@ In order to test the viability of Mogul, we need the following:
 
 ## Language
 
-* For early deployment, serverless should be an option. If we use Amazon Lambda, 
+* For early deployment, serverless should be an option. If we use Amazon Lambda, this limits us to Node, Python, and maybe C# or Java.
+
+
